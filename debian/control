@@ -1,0 +1,14 @@
+Source: erld
+Section: unknown
+Priority: optional
+Maintainer: Bernard Duggan <bernard@guarana.org>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev
+Standards-Version: 3.9.4
+Homepage: https://github.com/ShoreTel-Inc/erld
+#Vcs-Git: git://git.debian.org/collab-maint/erld.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/erld.git;a=summary
+
+Package: erld
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Unix daemon wrapper for Erlang
