@@ -1,5 +1,5 @@
 Source: erld
-Section: unknown
+Section: libs
 Priority: optional
 Maintainer: Bernard Duggan <bernard@guarana.org>
 Build-Depends: debhelper (>= 8.0.0), autotools-dev
