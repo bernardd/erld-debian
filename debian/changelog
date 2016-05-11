@@ -1,3 +1,21 @@
+erld (1.0-1ubuntu5) trusty; urgency=medium
+
+  * Fix erlang dep
+
+ -- Bernard Duggan <bernard@guarana.org>  Wed, 11 May 2016 14:32:05 +1000
+
+erld (1.0-1ubuntu4) trusty; urgency=medium
+
+  * Really fix install lib dir
+
+ -- Bernard Duggan <bernard@guarana.org>  Wed, 11 May 2016 14:26:25 +1000
+
+erld (1.0-1ubuntu3) trusty; urgency=low
+
+  * Fix install lib dir
+
+ -- Bernard Duggan <bernard@guarana.org>  Wed, 11 May 2016 14:04:29 +1000
+
 erld (1.0-1ubuntu2) trusty; urgency=low
 
   * Add erlang dependency
@@ -6,7 +24,7 @@ erld (1.0-1ubuntu2) trusty; urgency=low
 
 erld (1.0-1ubuntu1) trusty; urgency=low
 
-  * Add libprocps3 dependency 
+  * Add libprocps3 dependency
 
  -- Bernard Duggan <bernard@guarana.org>  Wed, 11 May 2016 12:02:26 +1000
 
