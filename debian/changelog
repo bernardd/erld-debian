@@ -1,3 +1,22 @@
+erld (1.0.1-1ubuntu2) wily; urgency=medium
+
+  * Wily version
+
+ -- Bernard Duggan <bernard@guarana.org>  Mon, 16 May 2016 12:02:15 +1000
+
+erld (1.0.1-1ubuntu1) trusty; urgency=medium
+
+  * Remove chdir op
+  * Bump version
+
+ -- Bernard Duggan <bernard@guarana.org>  Mon, 16 May 2016 11:53:08 +1000
+
+erld (1.0-1ubuntu6) trusty; urgency=medium
+
+  * Wily build
+
+ -- Bernard Duggan <bernard@guarana.org>  Mon, 16 May 2016 11:52:01 +1000
+
 erld (1.0-1ubuntu5) trusty; urgency=medium
 
   * Fix erlang dep
